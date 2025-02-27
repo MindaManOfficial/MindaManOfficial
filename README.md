@@ -1,6 +1,6 @@
 ## Hi there, I am MindaMan 👋
 
-![MindaMan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mindaman&show_icons=true&theme=ambient_gradient)
+![MindaMan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mindamanofficial&show_icons=true&theme=ambient_gradient)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mindamanofficial)](https://github.com/anuraghazra/github-readme-stats)
 
 Thanks to @anuraghazra for the [github-readme-stats]([url](https://github.com/anuraghazra/github-readme-stats)).
