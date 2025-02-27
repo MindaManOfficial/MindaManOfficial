@@ -12,10 +12,10 @@ I intend on working on some bigger projects in the future!
 
 You can follow me and catch up with my latest info: [mindaman.straw.page/sociallinks](mindaman.straw.page/sociallinks)
 
-Coding languages I am learning/using
-Javascript
-HTML
-C/C++
-GML
-GDscript
-Python
+Coding languages I am learning/using:
+Javascript,
+HTML,
+C/C++,
+GML,
+GDscript,
+Python.
