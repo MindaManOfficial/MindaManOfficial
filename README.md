@@ -10,12 +10,9 @@ I am a streamer, coder, artist, and creator. :)
 As of right now, I am working with not much so none of my projects are going to be that large. 
 I intend on working on some bigger projects in the future!
 
-You can follow me and catch up with my latest info: [mindaman.straw.page/sociallinks](https://mindaman.straw.page/sociallinks)
+You can follow me and catch up with my latest info: [mindaman.com](https://mindaman.com)
 
 Coding languages I am learning/using:
-Javascript,
-HTML,
-C/C++,
-GML,
-GDscript,
-Python.
+Full Web Stack: (CSS, HTML, Javascript, Python)
+OS and Application development: (C/C++, Assembly)
+Game development: (GML, GDscript)
