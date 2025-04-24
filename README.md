@@ -13,6 +13,9 @@ I intend on working on some bigger projects in the future!
 You can follow me and catch up with my latest info: [mindaman.com](https://mindaman.com)
 
 Coding languages I am learning/using:
+
 Full Web Stack: (CSS, HTML, Javascript, Python)
+
 OS and Application development: (C/C++, Assembly)
+
 Game development: (GML, GDscript)
