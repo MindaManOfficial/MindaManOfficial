@@ -1,11 +1,12 @@
 ## Hi there, I am MindaMan 👋
 
 ![MindaMan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mindamanofficial&show_icons=true&theme=ambient_gradient)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mindamanofficial)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mindamanofficial&theme=dark" alt="mindamanofficial" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mindamanofficial&theme=ambient gradient" alt="mindamanofficial" /></p>
 
 Thanks to @anuraghazra for the [github-readme-stats]([url](https://github.com/anuraghazra/github-readme-stats)).
 
+About Me
+--------
 I am a streamer, developer, artist, and creator. :)
 
 As of right now, I am working with not much so none of my projects are going to be that large. 
@@ -13,8 +14,11 @@ I intend on working on some bigger projects in the future!
 
 You can follow me and catch up with my latest info: [mindaman.com](https://mindaman.com)
 
+For more info about me: [Go Here](https://mindaman.com/about)
+
 
 **PROJECTS I'M CURRENTLY WORKING ON**
+--------
 [illuminate](https://mindaman.com/illuminate)
 [The Program](https://mindaman.com/projects/theprogram)
 [BitOS](https://mindaman.com/projects/bitos)
@@ -24,14 +28,15 @@ You can follow me and catch up with my latest info: [mindaman.com](https://minda
 
 
 Coding languages I am learning/using:
-
+--------
 Full Web Stack: (CSS, HTML, Javascript, Python)
 
 OS and Application development: (C/C++, Assembly)
 
 Game development: (GDscript)
+
+List of Social Medias:
 ---------
-<h3 align="left">List of Social Medias:</h3>
 <p align="left">
 <a href="https://dev.to/mindaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mindaman" height="30" width="40" /></a>
 <a href="https://twitter.com/mindamanreal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mindamanreal" height="30" width="40" /></a>
