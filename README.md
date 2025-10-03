@@ -1,7 +1,7 @@
 ## Hi there, I am MindaMan 👋
 
-![MindaMan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mindamanofficial&show_icons=true&theme=ambient_gradient)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mindamanofficial&theme=ambient gradient" alt="mindamanofficial" /></p>
+![MindaMan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mindamanofficial&show_icons=true&theme=dark)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mindamanofficial&theme=dark" alt="mindamanofficial" /></p>
 
 Thanks to @anuraghazra for the [github-readme-stats]([url](https://github.com/anuraghazra/github-readme-stats)).
 
