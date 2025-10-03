@@ -55,6 +55,6 @@ Game development: (GML, GDscript)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mindamanofficial&show_icons=true&locale=en&layout=compact" alt="mindamanofficial" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mindamanofficial&show_icons=true&locale=en" alt="mindamanofficial" /></p>
+<p>&nbsp;<img align="center" src="[https://github-readme-stats.vercel.app/api?username=mindamanofficial&show_icons=true&locale=en](https://github-readme-stats.vercel.app/api?username=mindamanofficial&show_icons=true&theme=ambient_gradient)" alt="mindamanofficial" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mindamanofficial&theme=dark" alt="mindamanofficial" /></p>
