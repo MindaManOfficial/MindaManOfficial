@@ -19,12 +19,12 @@ For more info about me: [Go Here](https://mindaman.com/about)
 
 **Projects I am currently working on:** (icons may or may not be accurate/exist due to projects progress)
 --------
-[illuminate](https://mindaman.com/illuminate) |
-[The Program](https://mindaman.com/projects/theprogram) |
-[BitOS](https://mindaman.com/projects/bitos) |
-[PenguinVM](https://mindaman.com/projects/penguinvm) |
-[BrickBot](https://mindaman.com/projects/brickbot) |
-[Other Projects found here:](https://mindaman.com/projects) 
+[illuminate](https://projects.mindaman.com/illuminate) |
+[The Program](https://projects.mindaman.com/theprogram) |
+[BitOS](https://projects.mindaman.com/bitos) |
+[PenguinVM](https://projects.mindaman.com/penguinvm) |
+[BrickBot](https://projects.mindaman.com/brickbot) |
+[Other Projects found here:](https://projects.mindaman.com/) 
 
 
 Coding languages I am learning/using:
@@ -46,5 +46,5 @@ List of Social Medias:
 <a href="https://www.leetcode.com/mindaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mindaman" height="30" width="40" /></a>
 </p>
 
-Go [here](https://mindaman.com/social) for more Social Media links/connections!
+Go [here](https://social.mindaman.com/) for more Social Media links/connections!
 
