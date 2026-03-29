@@ -42,7 +42,7 @@ List of Social Medias:
 <a href="https://twitter.com/mindamanreal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mindamanreal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/27046402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27046402" height="30" width="40" /></a>
 <a href="https://instagram.com/mindamanreal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mindamanreal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mindaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mindaman" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mindaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mindaman" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mindaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mindaman" height="30" width="40" /></a>
 </p>
 
